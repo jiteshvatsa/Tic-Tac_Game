@@ -12,5 +12,5 @@ Pre-requisits:
 
 html, css, js basics and js DOM
 
-![alt text](Tic-Tac_Game/Screen Shot 2019-01-07 at 3.33.22 PM.png)
+![Screenshot](Screen Shot 2019-01-07 at 3.33.22 PM.png)
       
