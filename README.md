@@ -6,4 +6,4 @@ Click to play the game
 2nd click will display O
 3rd will clear the box
 
-Ypu can restart game by clicking restart button
+You can restart game by clicking restart button
