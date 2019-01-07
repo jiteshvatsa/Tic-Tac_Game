@@ -11,3 +11,5 @@ You can restart game by clicking restart button
 Pre-requisits:
 
 html, css, js basics and js DOM
+
+![alt text](http://url/to/img.png)
