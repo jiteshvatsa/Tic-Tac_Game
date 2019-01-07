@@ -1,0 +1,27 @@
+td{
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  /*padding: 100px;*/
+  border: 5px solid black;
+  font-size: 100px
+}
+
+
+        #grad1 {
+            height: 350px;
+            background-color: red; /* For browsers that do not support gradients */
+            background-image: linear-gradient(-90deg, #5433FF, #20BDFF, #a5fecb); /* Standard syntax (must be last) */
+        }
+
+        #grad3 {
+            height: 250px;
+            background-color: red; /* For browsers that do not support gradients */
+            background-image: linear-gradient(90deg, #2BC0E4, #EAECC6); /* Standard syntax (must be last) */
+        }
+
+        #grad4 {
+            height: 200px;
+            background-color: red; /* For browsers that do not support gradients */
+            background-image: linear-gradient(-90deg, #56CCF2, #2F80ED); /* Standard syntax (must be last) */
+        }
