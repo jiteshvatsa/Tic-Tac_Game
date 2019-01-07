@@ -1,4 +1,4 @@
-# Tic-Tac_Game
+# Tic-Tac-Toe-Game
 Tic-Tac-Toe Game to practice javascript skills. 
 
 Click to play the game
