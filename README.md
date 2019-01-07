@@ -12,5 +12,5 @@ Pre-requisits:
 
 html, css, js basics and js DOM
 
-![Image description]()
+![Image description](https://github.com/jiteshvatsa/Tic-Tac_Game/blob/master/Screen%20Shot%202019-01-07%20at%203.33.22%20PM.png)
       
