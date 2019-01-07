@@ -7,3 +7,7 @@ Click to play the game
 3rd will clear the box
 
 You can restart game by clicking restart button
+
+Pre-requisits:
+
+html, css, js basics and js DOM
