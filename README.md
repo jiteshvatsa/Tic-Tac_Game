@@ -1,4 +1,4 @@
-![Image description](https://www.tutorialrepublic.com/lib/images/javascript-illustration.png)
+![Image description](https://www.tutorialrepublic.com/lib/images/javascript-illustration.png | width=100)
 
 # Tic-Tac-Toe-Game
 ## Tic-Tac-Toe Game to practice javascript skills. 
