@@ -1,12 +1,12 @@
 ![Image description](https://www.tutorialrepublic.com/lib/images/javascript-illustration.png)
 
 # Tic-Tac-Toe-Game
-## Tic-Tac-Toe Game to practice javascript skills. 
+## Game to practice javascript skills. 
 
 ### Click to play the game
-* **1st Click** click will display X
+* **1st Click** will display X
 
-* **2nd Click** click will display O
+* **2nd Click** will display O
 
 * **3rd Click** will clear the box
 
